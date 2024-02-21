@@ -7,10 +7,10 @@
 # Ebenso möglich unter element.style{display: none;}
 
 
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\html\assets\index.html <-- Selfmade
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\html\assets\css\* <-- Selfmade
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\html\assets\fonts\* <-- Selfmade
 
-# FiveM-VisualSkripts\VisualShop\bc_shops\index.html <-- Selfmade
-# FiveM-VisualSkripts\VisualShop\bc_shops\css <-- Selfmade
-
-# FiveM-VisualSkripts\VisualShop\bc_shops\js <-- !Selfmade
-# FiveM-VisualSkripts\VisualShop\bc_shops\fonts <-- !Selfmade
-# FiveM-VisualSkripts\VisualShop\bc_shops\*.lua <-- !Selfmade
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\html\assets\js <-- !Selfmade
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\assets\*.lua <-- !Selfmade
+# FiveM-VisualSkripts\VisualShop\VisualParkMenu\parkmenu\config <-- !Selfmade
